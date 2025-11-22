@@ -1,6 +1,5 @@
-#د
-إعداد المعلم : فهد الخالدي
 
+إعداد المعلم : فهد الخالدي
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
